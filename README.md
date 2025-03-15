@@ -20,25 +20,11 @@ __analysis.establishments.json:__ JSON file containing food hygiene rating data.
 
 # Key Features
 
-__Database Setup:__
+__Database Setup:__ Imports raw food hygiene data into MongoDB and verifies the integrity of the database and collection structure.
 
-Imports raw food hygiene data into MongoDB.
+__Data Cleaning & Updates:__ Adds new records and updates missing or incorrect values and emoves unwanted data (Dover establishments). Additonally, converts string-based numerical fields into appropriate data types.
 
-Verifies the integrity of the database and collection structure.
-
-__Data Cleaning & Updates:__
-
-Adds new records and updates missing or incorrect values.
-
-Removes unwanted data (Dover establishments).
-
-Converts string-based numerical fields into appropriate data types.
-
-__Data Analysis & Insights:__
-
-Uses MongoDB queries to find high-risk and top-rated establishments.
-
-Identifies areas with high hygiene concerns for food critics to investigate.
+__Data Analysis & Insights:__ Uses MongoDB queries to find high-risk and top-rated establishments while identifying areas with high hygiene concerns for food critics to investigate.
 
 # Dependencies
 
