@@ -71,4 +71,4 @@ __Pandas:__ Enables DataFrame-based analysis.
 4. Open and run NoSQL_setup_starter.ipynb for database setup and updates
 
 5. Open and run NoSQL_analysis_starter.ipynb to perform data analysis and generate insights
-Module 12 HW
+<!--Mod 12-->
