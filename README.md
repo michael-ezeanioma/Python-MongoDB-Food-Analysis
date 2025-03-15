@@ -51,8 +51,7 @@ __Pandas:__ Enables DataFrame-based analysis.
 1. Clone this repository to your local environment
 
 2. Install required dependencies
-
- 3 .Import the dataset into MongoDB
+3. Import the dataset into MongoDB
 
 4. Open and run NoSQL_setup_starter.ipynb for database setup and updates
 
